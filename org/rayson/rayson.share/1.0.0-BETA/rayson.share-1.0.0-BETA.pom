@@ -102,6 +102,7 @@
 					<encoding>UTF-8</encoding>
 					<charset>UTF-8</charset>
 					<additionalparam>-Xdoclint:none</additionalparam>
+					<additionalJOption>-J-Duser.language=en_US</additionalJOption>
 				</configuration>
 			</plugin>
 			<plugin>
